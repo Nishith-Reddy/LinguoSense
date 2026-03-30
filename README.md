@@ -1,4 +1,4 @@
-# ✉️ E-mail Tone Analyzer
+# ✉️ Lingosense: E-mail Tone Analyzer
 
 This project is a Natural Language Processing (NLP) application designed to analyze email text for sentiment and formality. It leverages state-of-the-art models, including fine-tuned Large Language Models (LLMs), to provide insightful analysis. This repository includes the tools and processes for data preparation, model fine-tuning, evaluation, and deployment.
 
